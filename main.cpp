@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//this is a training program
 int main()
 {
 	int x,y;
